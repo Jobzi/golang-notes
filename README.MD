@@ -118,3 +118,6 @@ func main() {
   fmt.Println(C)
 }
 ````
+# CHECK DOCUMENTATION ABOUT
+
+- [OPERADORES](https://www.w3schools.com/go/go_operators.php)
